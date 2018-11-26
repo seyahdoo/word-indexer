@@ -1,13 +1,11 @@
 import db
-import sys
 
-gereksizler = ["", " ", "the", "and", "or", "but", "not", "for", "at", "nor", "to", "from"]
+stop_words = ["", " ", "the", "and", "or", "but", "not", "for", "at", "nor", "to", "from"]
 
 
 def add_index(context, url):
-    # eleme yapılmalı burada -the,-and vs
     words = context.split(" ")
-    words = [word for word in words if word not in gereksizler]
+    words = [word for word in words if word not in stop_words]
 
     i = 0
     for i in range(0, len(words)):

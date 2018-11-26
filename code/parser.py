@@ -1,5 +1,5 @@
 
-import add_index
+import indexer
 import os
 
 
@@ -15,6 +15,6 @@ def parse_file(file_path):
     for line in file:
         context = line.split(";")[0]
         url = line.split(";")[1]
-        add_index.add_index(context, url)
+        indexer.add_index(context, url)
 
     file.close()
