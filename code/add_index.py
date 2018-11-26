@@ -1,23 +1,23 @@
-
 import db
 
 
 def add_index(context, url):
-    #eleme yapılmalı burada -the,-and vs
+    # eleme yapılmalı burada -the,-and vs
 
     words = context.split(" ")
     indexlist = []
-    cnt = context
-    lastword = words[len(words) - 1]
     i = 0
-    while cnt != context:
-        words = cnt.split(" ")
-        cnt = words[len(words) - 1]
-        for j in range(0, len(words) - 2):
-            cnt = cnt + words[j]
-        obj = {"index": words[len(words)-1], "context": context, "url": url, "point": i}
+    for i in range(0, len(words)):
+        obj = {"index": words[0], "context": context, "url": url, "point": i}
+        rotate_right(words)
         db.indexes.insert_one(obj)
-        i = i+1
         indexlist.append(obj)
 
     return
+
+
+def rotate_right(words):
+    tmpcnt = words[len(words) - 1]
+    for j in range(len(words) - 2, 0, -1):
+        words[j + 1] = words[j]
+    words[0] = tmpcnt
