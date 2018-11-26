@@ -1,24 +1,17 @@
 
-import  pymongo
-
 import pprint
 
+import db
 
-client = pymongo.MongoClient('mongodb://localhost:27017/')
-db = client["word_indexer"]
-indexes: pymongo.collection.Collection = db["indexes"]
+import json
+
 
 def make_search(word):
 
     # indexes.insert_one({"word":"rises"})
-    y = indexes.find({"word":word})
+    ind = db.indexes.find({"word": word})
 
-    pprint.pprint(y)
-
-    for t in y:
-        pprint.pprint(t)
-        pass
-
+    # print(json.dumps(ind))
 
     # list of {context,url,point}
-    pass
+    return

@@ -1,22 +1,23 @@
-def add_index(str, url):
-    words = str.split(" ")
+
+import db
+
+
+def add_index(context, url):
+    #eleme yapılmalı burada -the,-and vs
+
+    words = context.split(" ")
     indexlist = []
-
-    lastword = words[words.len() - 1]
-    while str.split(" ")[0] != lastword:
-        lst = str.split(" ")
-        str = lst[lst.len() - 1]
-        for i in range(0, lst.len() - 2):
-            str = str + lst[i]
-
-    indexlist.add({"context": str, "url": url})
-
-    index = "index"
-    context = "context"
-    url = "url"
-    point = 5
-
-    obj = {"index": index, "info": {"context": context, "url": url, "point": point}}
-    # indexes.insert_one({"word":w,"link":{"context":context,"url":url}})
+    cnt = context
+    lastword = words[len(words) - 1]
+    i = 0
+    while cnt.split(" ")[0] != lastword:
+        words = cnt.split(" ")
+        cnt = words[len(words) - 1]
+        for j in range(0, len(words) - 2):
+            cnt = cnt + words[j]
+        obj = {"index": words[len(words)-1], "info": {"context": context, "url": url, "point": i}}
+        db.indexes.insert_one(obj)
+        i = i+1
+        indexlist.append(obj)
 
     return
