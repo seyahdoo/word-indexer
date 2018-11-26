@@ -12,14 +12,20 @@ def parse_file(file_uri):
 
 client = MongoClient('mongodb://localhost:27017/')
 db = client["word_indexer"]
-indexes = db["indexes"]
+indexes: pymongo.collection.Collection = db["indexes"]
 
-def add_index(context, url):
+def add_index(context: str, url):
+
+    words = context.split(" ")
+
+    i = 0
+    for w in words:
+        #indexes.insert_one({"word":w,"link":{"context":context,"url":url}})
+
+        i += 1
 
 
-
-    pass
-
+    return
 
 
 
