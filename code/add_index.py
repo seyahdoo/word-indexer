@@ -17,5 +17,6 @@ def add_index(str, url):
     point = 5
 
     obj = {"index": index, "info": {"context": context, "url": url, "point": point}}
+    # indexes.insert_one({"word":w,"link":{"context":context,"url":url}})
 
     return
