@@ -2,7 +2,9 @@
 import add_index
 import os
 
+
 def parse_file(file_path):
+    # file format
     # dark knight rises ; url223 ;
     size = os.path.getsize(file_path)
     if size > 20000000:
@@ -10,7 +12,6 @@ def parse_file(file_path):
         return
 
     file = open(file_path, "r")
-    context = []
     for line in file:
         context = line.split(";")[0]
         url = line.split(";")[1]
