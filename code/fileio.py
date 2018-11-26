@@ -1,3 +1,5 @@
+
+
 def parse_file(file_path):
     # dark knight rises ; url223 ;
     file = open(file_path, "r")

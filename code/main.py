@@ -1,40 +1,11 @@
 
-import  pymongo
 
-
-client = MongoClient('mongodb://localhost:27017/')
-db = client["word_indexer"]
-indexes: pymongo.collection.Collection = db["indexes"]
-
-def add_index(context: str, url):
-
-    words = context.split(" ")
-
-    i = 0
-    for w in words:
-        #indexes.insert_one({"word":w,"link":{"context":context,"url":url}})
-
-        i += 1
-
-
-    return
-
-
-
-def make_search(word):
-
-
-
-    # list of {context,url,point}
-    pass
-
-
+import fileio
 
 
 if __name__ == "__main__":
 
-    # while true
-    # add_index
+    fileio.parse_file("test.txt")
 
 
 
