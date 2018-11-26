@@ -10,7 +10,7 @@ def add_index(context, url):
     cnt = context
     lastword = words[len(words) - 1]
     i = 0
-    while cnt.split(" ")[0] != lastword:
+    while cnt != context:
         words = cnt.split(" ")
         cnt = words[len(words) - 1]
         for j in range(0, len(words) - 2):
