@@ -1,8 +1,14 @@
 
 import add_index
+import os
 
 def parse_file(file_path):
     # dark knight rises ; url223 ;
+    size = os.path.getsize(file_path)
+    if size > 20000000:
+        print("input file size is too large, returning without processing")
+        return
+
     file = open(file_path, "r")
     context = []
     for line in file:
