@@ -12,7 +12,7 @@ def search_word(word):
 
 if __name__ == "__main__":
 
-    fileio.parse_file("test.txt")
+    fileio.parse_file("test-data.txt")
 
     print(search.make_search("Dark"))
 

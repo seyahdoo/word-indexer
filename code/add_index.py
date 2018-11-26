@@ -1,17 +1,19 @@
 import db
+import sys
+
+gereksizler = ["", " ", "the", "and", "or", "but", "not", "for", "at", "nor", "to", "from"]
 
 
 def add_index(context, url):
     # eleme yapılmalı burada -the,-and vs
-
     words = context.split(" ")
-    indexlist = []
+    words = [word for word in words if word not in gereksizler]
+
     i = 0
     for i in range(0, len(words)):
         obj = {"index": words[0], "context": context, "url": url, "point": i}
-        rotate_right(words)
         db.indexes.insert_one(obj)
-        indexlist.append(obj)
+        rotate_right(words)
 
     return
 
