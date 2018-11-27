@@ -1,6 +1,6 @@
 
 
-import parser
+import file_helper
 import search
 
 from flask import Flask
@@ -14,6 +14,6 @@ def search_word(word):
 
 if __name__ == "__main__":
 
-    parser.parse_file("test-data.txt")
+    file_helper.parse_file("test-data.txt")
 
     app.run(host="localhost")

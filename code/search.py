@@ -6,6 +6,7 @@ import json
 from bson import json_util
 
 
+
 def do_search(word):
 
     ind = db.indexes.find({"index": word})
