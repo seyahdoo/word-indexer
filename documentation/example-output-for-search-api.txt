@@ -1,0 +1,62 @@
+-----------------------------------------------------------------------------
+POST: ~/search/hello
+
+[
+]
+
+-----------------------------------------------------------------------------
+POST: ~/search/mad
+
+[
+    {
+        "context": "Mad Max: Fury Road ",
+        "url": " https://www.imdb.com/title/tt1392190/ ",
+        "point": 0
+    }
+]
+
+-----------------------------------------------------------------------------
+POST: ~/search/lord
+
+[
+    {
+        "context": "The Lord of the Rings: The Return of the King ",
+        "url": " https://www.imdb.com/title/tt0167260/ ",
+        "point": 0
+    },
+    {
+        "context": "The Lord of the Rings: The Fellowship of the Ring ",
+        "url": " https://www.imdb.com/title/tt0120737/ ",
+        "point": 0
+    },
+    {
+        "context": "The Lord of the Rings: The Two Towers ",
+        "url": " https://www.imdb.com/title/tt0167261/ ",
+        "point": 0
+    }
+]
+
+-----------------------------------------------------------------------------
+POST: ~/search/man
+
+[
+    {
+        "context": "The Man in the High Castle  ",
+        "url": " https://www.imdb.com/title/tt1740299/ ",
+        "point": 0
+    },
+    {
+        "context": "Iron Man ",
+        "url": " https://www.imdb.com/title/tt0371746/ ",
+        "point": 1
+    },
+    {
+        "context": "One Punch Man: Wanpanman ",
+        "url": " https://www.imdb.com/title/tt4508902/ ",
+        "point": 2
+    }
+]
+
+
+
+

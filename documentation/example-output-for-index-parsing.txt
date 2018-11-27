@@ -1,0 +1,157 @@
+C:\Users\seyahdoo\Documents\CODE-SEGMANT\Github\word-indexer\code\venv\Scripts\python.exe C:/Users/seyahdoo/Documents/CODE-SEGMANT/Github/word-indexer/code/main.py
+parsing file
+adding indexes for -> The Dark Knight Rises ,  https://www.imdb.com/title/tt1345836/ 
+inserting -> {'index': 'dark', 'context': 'The Dark Knight Rises ', 'url': ' https://www.imdb.com/title/tt1345836/ ', 'point': 0}
+inserting -> {'index': 'rises', 'context': 'The Dark Knight Rises ', 'url': ' https://www.imdb.com/title/tt1345836/ ', 'point': 1}
+inserting -> {'index': 'knight', 'context': 'The Dark Knight Rises ', 'url': ' https://www.imdb.com/title/tt1345836/ ', 'point': 2}
+adding indexes for -> The Shawshank Redemption ,  https://www.imdb.com/title/tt0111161/ 
+inserting -> {'index': 'shawshank', 'context': 'The Shawshank Redemption ', 'url': ' https://www.imdb.com/title/tt0111161/ ', 'point': 0}
+inserting -> {'index': 'redemption', 'context': 'The Shawshank Redemption ', 'url': ' https://www.imdb.com/title/tt0111161/ ', 'point': 1}
+adding indexes for -> Aliens ,  https://www.imdb.com/title/tt0090605/ 
+inserting -> {'index': 'aliens', 'context': 'Aliens ', 'url': ' https://www.imdb.com/title/tt0090605/ ', 'point': 0}
+adding indexes for -> Schindler's List ,  https://www.imdb.com/title/tt0108052/ 
+inserting -> {'index': "schindler's", 'context': "Schindler's List ", 'url': ' https://www.imdb.com/title/tt0108052/ ', 'point': 0}
+inserting -> {'index': 'list', 'context': "Schindler's List ", 'url': ' https://www.imdb.com/title/tt0108052/ ', 'point': 1}
+adding indexes for -> Pulp Fiction ,  https://www.imdb.com/title/tt0110912/ 
+inserting -> {'index': 'pulp', 'context': 'Pulp Fiction ', 'url': ' https://www.imdb.com/title/tt0110912/ ', 'point': 0}
+inserting -> {'index': 'fiction', 'context': 'Pulp Fiction ', 'url': ' https://www.imdb.com/title/tt0110912/ ', 'point': 1}
+adding indexes for -> The Lord of the Rings: The Return of the King ,  https://www.imdb.com/title/tt0167260/ 
+inserting -> {'index': 'lord', 'context': 'The Lord of the Rings: The Return of the King ', 'url': ' https://www.imdb.com/title/tt0167260/ ', 'point': 0}
+inserting -> {'index': 'king', 'context': 'The Lord of the Rings: The Return of the King ', 'url': ' https://www.imdb.com/title/tt0167260/ ', 'point': 1}
+inserting -> {'index': 'return', 'context': 'The Lord of the Rings: The Return of the King ', 'url': ' https://www.imdb.com/title/tt0167260/ ', 'point': 2}
+inserting -> {'index': 'rings', 'context': 'The Lord of the Rings: The Return of the King ', 'url': ' https://www.imdb.com/title/tt0167260/ ', 'point': 3}
+adding indexes for -> Fight Club ,  https://www.imdb.com/title/tt0137523/ 
+inserting -> {'index': 'fight', 'context': 'Fight Club ', 'url': ' https://www.imdb.com/title/tt0137523/ ', 'point': 0}
+inserting -> {'index': 'club', 'context': 'Fight Club ', 'url': ' https://www.imdb.com/title/tt0137523/ ', 'point': 1}
+adding indexes for -> Il buono, il brutto, il cattivo ,  https://www.imdb.com/title/tt0060196/ 
+inserting -> {'index': 'il', 'context': 'Il buono, il brutto, il cattivo ', 'url': ' https://www.imdb.com/title/tt0060196/ ', 'point': 0}
+inserting -> {'index': 'cattivo', 'context': 'Il buono, il brutto, il cattivo ', 'url': ' https://www.imdb.com/title/tt0060196/ ', 'point': 1}
+inserting -> {'index': 'il', 'context': 'Il buono, il brutto, il cattivo ', 'url': ' https://www.imdb.com/title/tt0060196/ ', 'point': 2}
+inserting -> {'index': 'brutto', 'context': 'Il buono, il brutto, il cattivo ', 'url': ' https://www.imdb.com/title/tt0060196/ ', 'point': 3}
+inserting -> {'index': 'il', 'context': 'Il buono, il brutto, il cattivo ', 'url': ' https://www.imdb.com/title/tt0060196/ ', 'point': 4}
+inserting -> {'index': 'buono', 'context': 'Il buono, il brutto, il cattivo ', 'url': ' https://www.imdb.com/title/tt0060196/ ', 'point': 5}
+adding indexes for -> Forrest Gump ,  https://www.imdb.com/title/tt0109830/ 
+inserting -> {'index': 'forrest', 'context': 'Forrest Gump ', 'url': ' https://www.imdb.com/title/tt0109830/ ', 'point': 0}
+inserting -> {'index': 'gump', 'context': 'Forrest Gump ', 'url': ' https://www.imdb.com/title/tt0109830/ ', 'point': 1}
+adding indexes for -> Star Wars: Episode V - The Empire Strikes Back ,  https://www.imdb.com/title/tt0080684/ 
+inserting -> {'index': 'star', 'context': 'Star Wars: Episode V - The Empire Strikes Back ', 'url': ' https://www.imdb.com/title/tt0080684/ ', 'point': 0}
+inserting -> {'index': 'back', 'context': 'Star Wars: Episode V - The Empire Strikes Back ', 'url': ' https://www.imdb.com/title/tt0080684/ ', 'point': 1}
+inserting -> {'index': 'strikes', 'context': 'Star Wars: Episode V - The Empire Strikes Back ', 'url': ' https://www.imdb.com/title/tt0080684/ ', 'point': 2}
+inserting -> {'index': 'empire', 'context': 'Star Wars: Episode V - The Empire Strikes Back ', 'url': ' https://www.imdb.com/title/tt0080684/ ', 'point': 3}
+inserting -> {'index': 'v', 'context': 'Star Wars: Episode V - The Empire Strikes Back ', 'url': ' https://www.imdb.com/title/tt0080684/ ', 'point': 4}
+inserting -> {'index': 'episode', 'context': 'Star Wars: Episode V - The Empire Strikes Back ', 'url': ' https://www.imdb.com/title/tt0080684/ ', 'point': 5}
+inserting -> {'index': 'wars', 'context': 'Star Wars: Episode V - The Empire Strikes Back ', 'url': ' https://www.imdb.com/title/tt0080684/ ', 'point': 6}
+adding indexes for -> The Matrix ,  https://www.imdb.com/title/tt0133093/ 
+inserting -> {'index': 'matrix', 'context': 'The Matrix ', 'url': ' https://www.imdb.com/title/tt0133093/ ', 'point': 0}
+adding indexes for -> Inception ,  https://www.imdb.com/title/tt1375666/ 
+inserting -> {'index': 'inception', 'context': 'Inception ', 'url': ' https://www.imdb.com/title/tt1375666/ ', 'point': 0}
+adding indexes for -> The Silence of the Lambs ,  https://www.imdb.com/title/tt0102926/ 
+inserting -> {'index': 'silence', 'context': 'The Silence of the Lambs ', 'url': ' https://www.imdb.com/title/tt0102926/ ', 'point': 0}
+inserting -> {'index': 'lambs', 'context': 'The Silence of the Lambs ', 'url': ' https://www.imdb.com/title/tt0102926/ ', 'point': 1}
+adding indexes for -> The Usual Suspects ,  https://www.imdb.com/title/tt0114814/ 
+inserting -> {'index': 'usual', 'context': 'The Usual Suspects ', 'url': ' https://www.imdb.com/title/tt0114814/ ', 'point': 0}
+inserting -> {'index': 'suspects', 'context': 'The Usual Suspects ', 'url': ' https://www.imdb.com/title/tt0114814/ ', 'point': 1}
+adding indexes for -> Saving Private Ryan ,  https://www.imdb.com/title/tt0120815/ 
+inserting -> {'index': 'saving', 'context': 'Saving Private Ryan ', 'url': ' https://www.imdb.com/title/tt0120815/ ', 'point': 0}
+inserting -> {'index': 'ryan', 'context': 'Saving Private Ryan ', 'url': ' https://www.imdb.com/title/tt0120815/ ', 'point': 1}
+inserting -> {'index': 'private', 'context': 'Saving Private Ryan ', 'url': ' https://www.imdb.com/title/tt0120815/ ', 'point': 2}
+adding indexes for -> The Green Mile ,  https://www.imdb.com/title/tt0120689/ 
+inserting -> {'index': 'green', 'context': 'The Green Mile ', 'url': ' https://www.imdb.com/title/tt0120689/ ', 'point': 0}
+inserting -> {'index': 'mile', 'context': 'The Green Mile ', 'url': ' https://www.imdb.com/title/tt0120689/ ', 'point': 1}
+adding indexes for -> The Lord of the Rings: The Fellowship of the Ring ,  https://www.imdb.com/title/tt0120737/ 
+inserting -> {'index': 'lord', 'context': 'The Lord of the Rings: The Fellowship of the Ring ', 'url': ' https://www.imdb.com/title/tt0120737/ ', 'point': 0}
+inserting -> {'index': 'ring', 'context': 'The Lord of the Rings: The Fellowship of the Ring ', 'url': ' https://www.imdb.com/title/tt0120737/ ', 'point': 1}
+inserting -> {'index': 'fellowship', 'context': 'The Lord of the Rings: The Fellowship of the Ring ', 'url': ' https://www.imdb.com/title/tt0120737/ ', 'point': 2}
+inserting -> {'index': 'rings', 'context': 'The Lord of the Rings: The Fellowship of the Ring ', 'url': ' https://www.imdb.com/title/tt0120737/ ', 'point': 3}
+adding indexes for -> The Lord of the Rings: The Two Towers ,  https://www.imdb.com/title/tt0167261/ 
+inserting -> {'index': 'lord', 'context': 'The Lord of the Rings: The Two Towers ', 'url': ' https://www.imdb.com/title/tt0167261/ ', 'point': 0}
+inserting -> {'index': 'towers', 'context': 'The Lord of the Rings: The Two Towers ', 'url': ' https://www.imdb.com/title/tt0167261/ ', 'point': 1}
+inserting -> {'index': 'two', 'context': 'The Lord of the Rings: The Two Towers ', 'url': ' https://www.imdb.com/title/tt0167261/ ', 'point': 2}
+inserting -> {'index': 'rings', 'context': 'The Lord of the Rings: The Two Towers ', 'url': ' https://www.imdb.com/title/tt0167261/ ', 'point': 3}
+adding indexes for -> Star Wars ,  https://www.imdb.com/title/tt0076759/ 
+inserting -> {'index': 'star', 'context': 'Star Wars ', 'url': ' https://www.imdb.com/title/tt0076759/ ', 'point': 0}
+inserting -> {'index': 'wars', 'context': 'Star Wars ', 'url': ' https://www.imdb.com/title/tt0076759/ ', 'point': 1}
+adding indexes for -> The Lion King ,  https://www.imdb.com/title/tt0110357/ 
+inserting -> {'index': 'lion', 'context': 'The Lion King ', 'url': ' https://www.imdb.com/title/tt0110357/ ', 'point': 0}
+inserting -> {'index': 'king', 'context': 'The Lion King ', 'url': ' https://www.imdb.com/title/tt0110357/ ', 'point': 1}
+adding indexes for -> Avengers: Infinity War ,  https://www.imdb.com/title/tt4154756/ 
+inserting -> {'index': 'avengers', 'context': 'Avengers: Infinity War ', 'url': ' https://www.imdb.com/title/tt4154756/ ', 'point': 0}
+inserting -> {'index': 'war', 'context': 'Avengers: Infinity War ', 'url': ' https://www.imdb.com/title/tt4154756/ ', 'point': 1}
+inserting -> {'index': 'infinity', 'context': 'Avengers: Infinity War ', 'url': ' https://www.imdb.com/title/tt4154756/ ', 'point': 2}
+adding indexes for -> Star Wars: Episode VI - Return of the Jedi ,  https://www.imdb.com/title/tt0086190/ 
+inserting -> {'index': 'star', 'context': 'Star Wars: Episode VI - Return of the Jedi ', 'url': ' https://www.imdb.com/title/tt0086190/ ', 'point': 0}
+inserting -> {'index': 'jedi', 'context': 'Star Wars: Episode VI - Return of the Jedi ', 'url': ' https://www.imdb.com/title/tt0086190/ ', 'point': 1}
+inserting -> {'index': 'return', 'context': 'Star Wars: Episode VI - Return of the Jedi ', 'url': ' https://www.imdb.com/title/tt0086190/ ', 'point': 2}
+inserting -> {'index': 'vi', 'context': 'Star Wars: Episode VI - Return of the Jedi ', 'url': ' https://www.imdb.com/title/tt0086190/ ', 'point': 3}
+inserting -> {'index': 'episode', 'context': 'Star Wars: Episode VI - Return of the Jedi ', 'url': ' https://www.imdb.com/title/tt0086190/ ', 'point': 4}
+inserting -> {'index': 'wars', 'context': 'Star Wars: Episode VI - Return of the Jedi ', 'url': ' https://www.imdb.com/title/tt0086190/ ', 'point': 5}
+adding indexes for -> Eternal Sunshine of the Spotless Mind ,  https://www.imdb.com/title/tt0338013/ 
+inserting -> {'index': 'eternal', 'context': 'Eternal Sunshine of the Spotless Mind ', 'url': ' https://www.imdb.com/title/tt0338013/ ', 'point': 0}
+inserting -> {'index': 'mind', 'context': 'Eternal Sunshine of the Spotless Mind ', 'url': ' https://www.imdb.com/title/tt0338013/ ', 'point': 1}
+inserting -> {'index': 'spotless', 'context': 'Eternal Sunshine of the Spotless Mind ', 'url': ' https://www.imdb.com/title/tt0338013/ ', 'point': 2}
+inserting -> {'index': 'sunshine', 'context': 'Eternal Sunshine of the Spotless Mind ', 'url': ' https://www.imdb.com/title/tt0338013/ ', 'point': 3}
+adding indexes for -> 2001: A Space Odyssey ,  https://www.imdb.com/title/tt0062622/ 
+inserting -> {'index': '2001', 'context': '2001: A Space Odyssey ', 'url': ' https://www.imdb.com/title/tt0062622/ ', 'point': 0}
+inserting -> {'index': 'odyssey', 'context': '2001: A Space Odyssey ', 'url': ' https://www.imdb.com/title/tt0062622/ ', 'point': 1}
+inserting -> {'index': 'space', 'context': '2001: A Space Odyssey ', 'url': ' https://www.imdb.com/title/tt0062622/ ', 'point': 2}
+adding indexes for -> Toy Story ,  https://www.imdb.com/title/tt0114709/ 
+inserting -> {'index': 'toy', 'context': 'Toy Story ', 'url': ' https://www.imdb.com/title/tt0114709/ ', 'point': 0}
+inserting -> {'index': 'story', 'context': 'Toy Story ', 'url': ' https://www.imdb.com/title/tt0114709/ ', 'point': 1}
+adding indexes for -> Toy Story 3 ,  https://www.imdb.com/title/tt0435761/ 
+inserting -> {'index': 'toy', 'context': 'Toy Story 3 ', 'url': ' https://www.imdb.com/title/tt0435761/ ', 'point': 0}
+inserting -> {'index': '3', 'context': 'Toy Story 3 ', 'url': ' https://www.imdb.com/title/tt0435761/ ', 'point': 1}
+inserting -> {'index': 'story', 'context': 'Toy Story 3 ', 'url': ' https://www.imdb.com/title/tt0435761/ ', 'point': 2}
+adding indexes for -> Batman Begins ,  https://www.imdb.com/title/tt0372784/ 
+inserting -> {'index': 'batman', 'context': 'Batman Begins ', 'url': ' https://www.imdb.com/title/tt0372784/ ', 'point': 0}
+inserting -> {'index': 'begins', 'context': 'Batman Begins ', 'url': ' https://www.imdb.com/title/tt0372784/ ', 'point': 1}
+adding indexes for -> A Beautiful Mind ,  https://www.imdb.com/title/tt0268978/ 
+inserting -> {'index': 'beautiful', 'context': 'A Beautiful Mind ', 'url': ' https://www.imdb.com/title/tt0268978/ ', 'point': 0}
+inserting -> {'index': 'mind', 'context': 'A Beautiful Mind ', 'url': ' https://www.imdb.com/title/tt0268978/ ', 'point': 1}
+adding indexes for -> Blade Runner ,  https://www.imdb.com/title/tt0083658/ 
+inserting -> {'index': 'blade', 'context': 'Blade Runner ', 'url': ' https://www.imdb.com/title/tt0083658/ ', 'point': 0}
+inserting -> {'index': 'runner', 'context': 'Blade Runner ', 'url': ' https://www.imdb.com/title/tt0083658/ ', 'point': 1}
+adding indexes for -> How to Train Your Dragon ,  https://www.imdb.com/title/tt0892769/ 
+inserting -> {'index': 'how', 'context': 'How to Train Your Dragon ', 'url': ' https://www.imdb.com/title/tt0892769/ ', 'point': 0}
+inserting -> {'index': 'dragon', 'context': 'How to Train Your Dragon ', 'url': ' https://www.imdb.com/title/tt0892769/ ', 'point': 1}
+inserting -> {'index': 'your', 'context': 'How to Train Your Dragon ', 'url': ' https://www.imdb.com/title/tt0892769/ ', 'point': 2}
+inserting -> {'index': 'train', 'context': 'How to Train Your Dragon ', 'url': ' https://www.imdb.com/title/tt0892769/ ', 'point': 3}
+adding indexes for -> Jurassic Park ,  https://www.imdb.com/title/tt0107290/ 
+inserting -> {'index': 'jurassic', 'context': 'Jurassic Park ', 'url': ' https://www.imdb.com/title/tt0107290/ ', 'point': 0}
+inserting -> {'index': 'park', 'context': 'Jurassic Park ', 'url': ' https://www.imdb.com/title/tt0107290/ ', 'point': 1}
+adding indexes for -> Into the Wild ,  https://www.imdb.com/title/tt0758758/ 
+inserting -> {'index': 'into', 'context': 'Into the Wild ', 'url': ' https://www.imdb.com/title/tt0758758/ ', 'point': 0}
+inserting -> {'index': 'wild', 'context': 'Into the Wild ', 'url': ' https://www.imdb.com/title/tt0758758/ ', 'point': 1}
+adding indexes for -> 12 Years a Slave ,  https://www.imdb.com/title/tt2024544/ 
+inserting -> {'index': '12', 'context': '12 Years a Slave ', 'url': ' https://www.imdb.com/title/tt2024544/ ', 'point': 0}
+inserting -> {'index': 'slave', 'context': '12 Years a Slave ', 'url': ' https://www.imdb.com/title/tt2024544/ ', 'point': 1}
+inserting -> {'index': 'years', 'context': '12 Years a Slave ', 'url': ' https://www.imdb.com/title/tt2024544/ ', 'point': 2}
+adding indexes for -> 12 Angry Men ,  https://www.imdb.com/title/tt0050083/ 
+inserting -> {'index': '12', 'context': '12 Angry Men ', 'url': ' https://www.imdb.com/title/tt0050083/ ', 'point': 0}
+inserting -> {'index': 'men', 'context': '12 Angry Men ', 'url': ' https://www.imdb.com/title/tt0050083/ ', 'point': 1}
+inserting -> {'index': 'angry', 'context': '12 Angry Men ', 'url': ' https://www.imdb.com/title/tt0050083/ ', 'point': 2}
+adding indexes for -> Beauty and the Beast ,  https://www.imdb.com/title/tt0101414/ 
+inserting -> {'index': 'beauty', 'context': 'Beauty and the Beast ', 'url': ' https://www.imdb.com/title/tt0101414/ ', 'point': 0}
+inserting -> {'index': 'beast', 'context': 'Beauty and the Beast ', 'url': ' https://www.imdb.com/title/tt0101414/ ', 'point': 1}
+adding indexes for -> Guardians of the Galaxy ,  https://www.imdb.com/title/tt2015381/ 
+inserting -> {'index': 'guardians', 'context': 'Guardians of the Galaxy ', 'url': ' https://www.imdb.com/title/tt2015381/ ', 'point': 0}
+inserting -> {'index': 'galaxy', 'context': 'Guardians of the Galaxy ', 'url': ' https://www.imdb.com/title/tt2015381/ ', 'point': 1}
+adding indexes for -> Blade Runner 2049 ,  https://www.imdb.com/title/tt1856101/ 
+inserting -> {'index': 'blade', 'context': 'Blade Runner 2049 ', 'url': ' https://www.imdb.com/title/tt1856101/ ', 'point': 0}
+inserting -> {'index': '2049', 'context': 'Blade Runner 2049 ', 'url': ' https://www.imdb.com/title/tt1856101/ ', 'point': 1}
+inserting -> {'index': 'runner', 'context': 'Blade Runner 2049 ', 'url': ' https://www.imdb.com/title/tt1856101/ ', 'point': 2}
+adding indexes for -> The Terminator ,  https://www.imdb.com/title/tt0088247/ 
+inserting -> {'index': 'terminator', 'context': 'The Terminator ', 'url': ' https://www.imdb.com/title/tt0088247/ ', 'point': 0}
+adding indexes for -> Prisoners ,  https://www.imdb.com/title/tt1392214/ 
+inserting -> {'index': 'prisoners', 'context': 'Prisoners ', 'url': ' https://www.imdb.com/title/tt1392214/ ', 'point': 0}
+adding indexes for -> Mad Max: Fury Road ,  https://www.imdb.com/title/tt1392190/ 
+inserting -> {'index': 'mad', 'context': 'Mad Max: Fury Road ', 'url': ' https://www.imdb.com/title/tt1392190/ ', 'point': 0}
+inserting -> {'index': 'road', 'context': 'Mad Max: Fury Road ', 'url': ' https://www.imdb.com/title/tt1392190/ ', 'point': 1}
+inserting -> {'index': 'fury', 'context': 'Mad Max: Fury Road ', 'url': ' https://www.imdb.com/title/tt1392190/ ', 'point': 2}
+inserting -> {'index': 'max', 'context': 'Mad Max: Fury Road ', 'url': ' https://www.imdb.com/title/tt1392190/ ', 'point': 3}
+parsing finished
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://localhost:5000/ (Press CTRL+C to quit)

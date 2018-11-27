@@ -15,7 +15,7 @@ def add_index(context, url):
     i = 0
     for i in range(0, len(words)):
         obj = {"index": words[0], "context": context, "url": url, "point": i}
-        print("inserting" + obj.__str__())
+        print("inserting -> " + obj.__str__())
         db.indexes.insert_one(obj)
         rotate_right(words)
 

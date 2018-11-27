@@ -20,4 +20,6 @@ def parse_file(file_path):
         indexer.add_index(context, url)
 
     file.close()
+
+    print("parsing finished")
     return

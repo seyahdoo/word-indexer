@@ -38,3 +38,6 @@ Blade Runner 2049 ; https://www.imdb.com/title/tt1856101/ ;
 The Terminator ; https://www.imdb.com/title/tt0088247/ ;
 Prisoners ; https://www.imdb.com/title/tt1392214/ ;
 Mad Max: Fury Road ; https://www.imdb.com/title/tt1392190/ ;
+The Man in the High Castle  ; https://www.imdb.com/title/tt1740299/ ;
+Iron Man ; https://www.imdb.com/title/tt0371746/ ;
+One Punch Man: Wanpanman ; https://www.imdb.com/title/tt4508902/ ;
