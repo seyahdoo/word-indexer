@@ -1,7 +1,9 @@
+
 import db
 
 stop_words = ["", " ", "the", "and", "or", "but", "not", "for", "at", "nor", "to", "from", "a", "of"]
 delimiters = [":", "-", ","]
+
 
 def add_index(context, url):
     print("adding indexes for -> " + context + ", " + url)

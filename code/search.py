@@ -1,10 +1,7 @@
 
-
 import db
-
 import json
 from bson import json_util
-
 
 
 def do_search(word):
